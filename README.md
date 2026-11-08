@@ -134,3 +134,6 @@ O projeto demonstra como a utilização de tecnologias de desenvolvimento web e 
 O Microsoft Copilot foi utilizado como apoio no tratamento e na correção dos dados, enquanto o ChatGPT auxiliou no desenvolvimento do HTML, na construção da interface, dos gráficos, dos indicadores e das funcionalidades interativas.
 
 A proposta é demonstrar conhecimentos em análise de dados, tratamento de informações, indicadores de desempenho, visualização de dados e desenvolvimento de dashboards, transformando dados brutos em informações úteis para a tomada de decisões.
+
+A seguir, está o link do dashboard
+https://jusilva1994.github.io/dashboard-porsche/
